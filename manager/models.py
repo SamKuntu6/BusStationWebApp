@@ -45,3 +45,4 @@ class Payments(models.Model):
     
     def __str__(self):
         return str(self.plate_no)
+        
